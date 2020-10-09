@@ -3,10 +3,11 @@
 
 |폴더|내용|
 |:---:|:---:|
-|[prac1 edit lite1.ipynb]()|최종 제출한 코드. <br>prac1 edit.ipynb 에서 만든 데이터를 epoch, batch_size를 다르게 하며 학습하려고 만듬.|
-|[prac1 edit.ipynb]()|역량 갯수로 묶은 코드.|
-|[prac4.ipynb]()|역량항목 하나하나 모두 훈련데이터로 넣은 코드(개선 필요)|
-|[prac4 lite2.ipynb]()|prac4.ipynb 에서 만든 데이터를 epoch, batch_size를 다르게 하며 학습하려고 만듬.|
+|[prac1 edit lite1.ipynb](https://github.com/sglee487/ComputerVisions/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EA%B3%BC%EC%A0%9C%EA%B4%80/%EC%A7%80%EC%9B%90%EC%98%88%EC%B8%A1/prac1%20edit%20lite1.ipynb)|최종 제출한 코드. <br>prac1 edit.ipynb 에서 만든 데이터를 epoch, batch_size를 다르게 하며 학습하려고 만듬.|
+|[prac1 edit.ipynb](https://github.com/sglee487/ComputerVisions/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EA%B3%BC%EC%A0%9C%EA%B4%80/%EC%A7%80%EC%9B%90%EC%98%88%EC%B8%A1/prac1%20edit.ipynb)|역량 갯수로 묶은 코드.|
+|[prac4.ipynb](https://github.com/sglee487/ComputerVisions/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EA%B3%BC%EC%A0%9C%EA%B4%80/%EC%A7%80%EC%9B%90%EC%98%88%EC%B8%A1/prac4.ipynb)|역량항목 하나하나 모두 훈련데이터로 넣은 코드(개선 필요)|
+|[prac4 lite2.ipynb](https://github.com/sglee487/ComputerVisions/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EA%B3%BC%EC%A0%9C%EA%B4%80/%EC%A7%80%EC%9B%90%EC%98%88%EC%B8%A1/prac4%20lite2.ipynb)|prac4.ipynb 에서 만든 데이터를 epoch, batch_size를 다르게 하며 학습하려고 만듬.|
 
 -----------
 
+https://lightsg2.blogspot.com/2020/10/blog-post.html
